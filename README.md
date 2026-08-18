@@ -15,7 +15,7 @@
 ---
 
 ### 📂 **PROJECT DETAILS**
-- **COMMAND TYPE** : SOUND LOUDER
+- **TOOL TYPE** : SOUND LOUDER
 
 ---
 
@@ -60,7 +60,7 @@ First, download the latest ".zip" file of the project and extract it on your dev
 
 📱 Android/Ios Users
 
-You can use a Chromium-based Android browser that supports extensions, such as Kiwi Browser or Quetta Browser.
+You can use a Chromium-based Android browser that supports extensions, such as Kiwi Browser or Quetta Browser Etc.
 
 1. Download and extract the ".zip" file.
 2. Open the extracted extension folder.
