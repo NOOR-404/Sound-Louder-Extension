@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/9964ea64-4d24-4e5f-ac2e-26927026e30e" width="48%" />
 </p>
 
-<h1 align="center">🛡️ FACEBOOK APP CHECKER</h1>
+<h1 align="center">🔈 VOICE LOUDER</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python&logoColor=white" />
