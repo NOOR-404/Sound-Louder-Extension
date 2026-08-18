@@ -29,21 +29,14 @@
 
 ---
 
-## 🌐 OFFICIAL CONTACT
+### 🌐 **OFFICIAL CONTACT**
 
-<p align="center">
-  <b>📬 Connect with us through the official channels below</b>
-</p>
+| **Platform** | **Profile Link** |
+| :--- | :--- |
+| **Facebook** | [Mohammad Noor](https://www.facebook.com/WHO.IS.NOOR) |
+| **Telegram** | [NOOR-404](https://t.me/N_O_O_R_4_0_4) |
+| **WhatsApp** | [+8801925385443](https://wa.me/+8801925385443) |
 
-| 🌐 Platform | 👤 Official Profile |
-|:---:|:---|
-| 🔵 **Facebook** | [Mohammad Noor](https://www.facebook.com/WHO.IS.NOOR) |
-| ✈️ **Telegram** | [NOOR-404](https://t.me/N_O_O_R_4_0_4) |
-| 🟢 **WhatsApp** | [+8801925385443](https://wa.me/8801925385443) |
-
-<p align="center">
-  <b>⚡ For updates, support, and official announcements, use the official links above.</b>
-</p>
 ---
 
 🚀 Installation & Usage Guide
