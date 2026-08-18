@@ -15,7 +15,7 @@
 ---
 
 ### 📂 **PROJECT DETAILS**
-- **TOOL TYPE** : SOUND LOUDER
+- **COMMAND TYPE** : SOUND LOUDER
 
 ---
 
@@ -29,14 +29,18 @@
 
 ---
 
-### 🌐 **OFFICIAL CONTACT**
+🌐 OFFICIAL CONTACT
 
-| **Platform** | **Profile Link** |
-| :--- | :--- |
-| **Facebook** | [Mohammad Noor](https://www.facebook.com/WHO.IS.NOOR) |
-| **Telegram** | [NOOR-404](https://t.me/N_O_O_R_4_0_4) |
-| **WhatsApp** | [+8801925385443](https://wa.me/+8801925385443) |
+<p align="center">
+  <b>📬 Connect with us through the official channels below</b>
+</p>🌐 Platform| 👤 Official Profile
+🔵 Facebook| "Mohammad Noor" (https://www.facebook.com/WHO.IS.NOOR)
+✈️ Telegram| "NOOR-404" (https://t.me/N_O_O_R_4_0_4)
+🟢 WhatsApp| "+8801925385443" (https://wa.me/+8801925385443)
 
+<p align="center">
+  <b>⚡ For updates, support, and official announcements, use the official links above.</b>
+</p>
 ---
 
 🚀 Installation & Usage Guide
@@ -60,7 +64,7 @@ First, download the latest ".zip" file of the project and extract it on your dev
 
 📱 Android/Ios Users
 
-You can use a Chromium-based Android browser that supports extensions, such as Kiwi Browser or Quetta Browser Etc.
+You can use a Chromium-based Android browser that supports extensions, such as Kiwi Browser or Quetta Browser.
 
 1. Download and extract the ".zip" file.
 2. Open the extracted extension folder.
