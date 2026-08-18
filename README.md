@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Developer-NOOR--404-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-ACTIVE-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-OFF-green?style=for-the-badge" />
 </p>
 
 ---
