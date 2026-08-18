@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d8700d4-7f69-4932-a7db-43401416355b" width="48%" />
-  <img src="https://github.com/user-attachments/assets/9964ea64-4d24-4e5f-ac2e-26927026e30e" width="48%" />
+  <img src="https://github.com/user-attachments/assets/c8ac58d8-104d-43fc-a10c-3e39502712ee" />
 </p>
 
 <h1 align="center">🔈 SOUND LOUDER</h1>
