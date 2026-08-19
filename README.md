@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c8ac58d8-104d-43fc-a10c-3e39502712ee" />
 </p>
 
-<h1 align="center">🔈 SOUND LOUDER</h1>
+<h1 align="center">🔈 VOICE LOUDER</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,14 +14,14 @@
 ---
 
 ### 📂 **PROJECT DETAILS**
-- **COMMAND TYPE** : SOUND LOUDER
+- **COMMAND TYPE** : VOICE LOUDER
 
 ---
 
 ### 🛠️ **ABOUT THE PROJECT**
 - **Developer** : **NOOR-404**
 - **Language** : **JavaScript & HTML**
-- **Function** : A Browser Extension for Using Sound Louding 
+- **Function** : A Browser Extension for Using Voice Louding 
 
 > [!NOTE]
 > If you encounter any bugs or technical issues while executing the script, please reach out via the official contact channels below.
